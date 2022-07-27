@@ -157,19 +157,7 @@ img {
     margin-bottom: 20px;    
 }
 
-.course-title {
-    font-size: 21px;
-    font-weight: 700;
-    margin-bottom: 20px;    
-}
-
 .course-item .course-price {
-    font-size: 30px;
-    font-weight: 700;
-    color: #00e9ba;
-}
-
-.course-price {
     font-size: 30px;
     font-weight: 700;
     color: #00e9ba;
